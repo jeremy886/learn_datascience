@@ -1,4 +1,5 @@
-# Course list
+Course list
+###########
 
 * `Introduction to Pandas for Developers`_.
 
