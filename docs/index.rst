@@ -5,4 +5,5 @@ Welcome to Y10 Programming Class Notes!
    :maxdepth: 2
    :caption: Contents:
 
-   pandas
+   about
+   pandas/*
