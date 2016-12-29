@@ -1,5 +1,5 @@
-PyData Study Notes
-==================
+Jeremy886's PyData Study Notes
+==============================
 
 .. toctree::
    :glob:
