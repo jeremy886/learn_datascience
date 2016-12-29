@@ -1,7 +1,8 @@
-Welcome to Y10 Programming Class Notes!
-===================================
+PyData Study Notes
+==================
 
 .. toctree::
+   :glob:
    :maxdepth: 2
    :caption: Contents:
 
