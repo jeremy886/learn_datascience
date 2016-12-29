@@ -7,6 +7,7 @@ PyData Study Notes
    :caption: Contents:
 
    about
+   course_list
    pandas/*
    visualisation/*
 
