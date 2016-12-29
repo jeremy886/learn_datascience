@@ -8,3 +8,5 @@ PyData Study Notes
 
    about
    pandas/*
+   visualisation/*
+
