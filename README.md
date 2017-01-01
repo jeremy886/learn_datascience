@@ -1,2 +1,2 @@
 # pydata-notes
-Personal learning notes to
+Personal learning notes to share
