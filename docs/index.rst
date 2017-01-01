@@ -12,3 +12,4 @@ Jeremy886's PyData Study Notes
    visualisation/*
    python_skills/*
    open_data/*
+   websites/*
