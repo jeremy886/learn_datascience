@@ -11,3 +11,4 @@ Jeremy886's PyData Study Notes
    pandas/*
    visualisation/*
    python_skills/*
+   open_data/*
