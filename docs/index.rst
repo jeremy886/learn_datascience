@@ -10,4 +10,4 @@ Jeremy886's PyData Study Notes
    course_list
    pandas/*
    visualisation/*
-
+   python_skills/*
