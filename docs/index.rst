@@ -6,10 +6,9 @@ Jeremy886's PyData Study Notes
    :maxdepth: 2
    :caption: Contents:
 
-   about
-   courses/course_list.rst
-   pandas/*
+   About <about>
+   Online Courses I'm studying and exploring <courses/course_list.rst>
+   Data Structures and Analysis <data_tools/*>
    visualisation/*
-   python_skills/*
    open_data/*
    websites/*
