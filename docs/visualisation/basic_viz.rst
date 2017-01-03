@@ -144,6 +144,9 @@ Data sources
 Matplotlib
 ##########
 
+Concept
+=======
+
 Steps:
 
 #. create the figure
@@ -176,3 +179,28 @@ Steps:
 
    plt.savefig('web-searches.png') # pdf, svg ...
    # plt.show()
+
+Jupyter notebook setting
+========================
+.. code-block:: python
+
+   %matplotlib inline
+   %matplotlib notebook
+
+Why the Jupyter Notebook?
+-------------------------
+
+#. Interactive
+#. Code in the same place as figures
+#. Shareable
+
+Styling
+=======
+
+Useful code::
+
+   plt.style.available
+
+   with plt.style.context('bmh'):
+
+   with plt.style.context(['figure_formatting', 'grayscale_colors']):
