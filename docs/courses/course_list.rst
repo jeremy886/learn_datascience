@@ -18,8 +18,7 @@ Moocs
 Coursera
 --------
 
-* `Introduction to Data Science in Python`_
-* :ref:`intro_data_in_python`
+* Introduction to Data Science in Python :ref:`intro_data_in_python`
 
 
 

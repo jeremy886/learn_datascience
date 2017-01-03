@@ -1,5 +1,6 @@
 
 .. _intro_data_in_python:
+
 Introduction to Data Science in Python
 ======================================
 
