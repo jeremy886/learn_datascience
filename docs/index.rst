@@ -3,7 +3,7 @@ Jeremy886's PyData Study Notes
 
 .. toctree::
    :glob:
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
    About <about>
