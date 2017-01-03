@@ -1,5 +1,11 @@
+Python Tools
+############
+
+IPython
+=======
+
 Shortcuts
-=========
+---------
 
 
 * Adding Line Numbers in IPython/Jupyter Notebooks
