@@ -26,7 +26,8 @@ Edx
 ---
 
 * `Microsoft Professional Program Certificate in Data Science`_
-* `Introduction to Python for Data Science<courses/edx_intro_py_data.rst>`_
+* :ref:`edx_intro_py_data`
+
 
  - numpy
  - matplotlib
