@@ -8,7 +8,7 @@ Jeremy886's PyData Study Notes
 
    About <about>
    Courses of Interest <courses/course_list.rst>
-   Data Structures and Analysis <data_tools/data_tools.rst>
-   Data Visualisation <visualisation/data_vis.rst>
+   data_tools/*
+   data_vis/*
    open_data/*
    websites/*
