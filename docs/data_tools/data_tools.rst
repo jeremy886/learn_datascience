@@ -6,9 +6,9 @@ Pandas
 Python Data Structures
 ######################
 
-.. include:: python_skills/containers.rst 
+.. include:: python_skills/containers.rst
 
 IPython techniques
 ##################
 
-ipython.rst
+.. include:: python_skills/ipython.rst
