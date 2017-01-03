@@ -23,6 +23,6 @@ jupyter nbextension enable --py gmaps
 jupyter nbextension enable --py --sys-prefix widgetsnbextension
 
 Google API Key
-AI----------
+AI--------------
 
 pip install folium

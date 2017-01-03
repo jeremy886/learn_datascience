@@ -1,3 +1,6 @@
+Data Visualization Basics with Python
+#####################################
+
 Credit:
 
 `Randy Olson`_
