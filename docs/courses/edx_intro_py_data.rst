@@ -1,3 +1,4 @@
+.. _edx_intro_py_data:
 
 Edx Introduction to Python for Data Science
 ###########################################

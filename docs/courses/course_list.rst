@@ -18,7 +18,7 @@ Moocs
 Coursera
 --------
 
-* Introduction to Data Science in Python :ref:`intro_data_in_python`
+* :ref:`intro_data_in_python`
 
 
 
@@ -32,12 +32,13 @@ Edx
  - matplotlib
  - pandas
 
-* `Programming with Python for Data Science<courses/edx_prog_py_data.rst>`_
+* :ref:`edx_intro_py_data`
 
 .. _Microsoft Professional Program Certificate in Data Science: https://www.edx.org/microsoft-professional-program-certficate-data-science
 
 Data Visualisation
 ------------------
+
 * Matplotlib
 
  - Course: https://www.safaribooksonline.com/library/view/matplotlib-for-developers/9781771375429/#toc
@@ -74,6 +75,7 @@ Statistics
 
 More Python
 -----------
+
 * `Python Data Structures`_
 
 .. _Python Data Structures: https://www.safaribooksonline.com/library/view/python-data-structures/9781771373517/part63.html
