@@ -7,7 +7,7 @@ Jeremy886's PyData Study Notes
    :caption: Contents:
 
    about
-   courses/*
+   courses/course_list.rst
    pandas/*
    visualisation/*
    python_skills/*
