@@ -8,7 +8,7 @@ Jeremy886's PyData Study Notes
 
    About <about>
    Online Courses I'm studying and exploring <courses/course_list.rst>
-   Data Structures and Analysis <data_tools/*>
+   Data Structures and Analysis <data_tools/data_tools.rst>
    visualisation/*
    open_data/*
    websites/*
