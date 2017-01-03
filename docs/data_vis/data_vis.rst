@@ -1,4 +1,5 @@
-Matplotlib
-##########
+.. toctree::
 
-.. include:: key_ideas.rst
+   basic_viz
+   chart_selector
+   matplotlib
