@@ -8,8 +8,11 @@ Jeremy886's PyData Study Notes
 
    About <about>
    Courses of Interest <courses/course_list.rst>
-   data_tools/data_tools.rst
+   statistics/*
+   python/*
+   data_tools/*
    data_vis/basic_viz
    data_vis/matplotlib
    open_data/*
    websites/*
+   edu/*
