@@ -2,7 +2,7 @@
 ## functions do
 
 
-## Write a short comment describing this function
+## This function creates a cached copy of a matrix to save extra costly computation
 
 makeCacheMatrix <- function(x = matrix()) {
   s <- NULL
@@ -22,7 +22,8 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 
-## Write a short comment describing this function
+## This function will find an inverse matrix of the given first parameter and save the computation
+## result in a cache copy of matrix
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
